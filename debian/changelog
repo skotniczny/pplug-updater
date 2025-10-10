@@ -1,3 +1,9 @@
+pplug-updater (1.2) trixie; urgency=medium
+
+  * Add Portuguese translation
+
+ -- Simon Long <simon@raspberrypi.com>  Fri, 10 Oct 2025 10:11:38 +0100
+
 pplug-updater (1.1) trixie; urgency=medium
 
   * Add Chinese translation
