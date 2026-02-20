@@ -1,3 +1,9 @@
+pplug-updater (1.4) trixie; urgency=medium
+
+  * Rebuild against latest APIs
+
+ -- Simon Long <simon@raspberrypi.com>  Fri, 20 Feb 2026 10:03:48 +0000
+
 pplug-updater (1.3) trixie; urgency=medium
 
   * Add larger icons
